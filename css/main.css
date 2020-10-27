@@ -65,13 +65,13 @@
 }
 
 .firsName-secondName {
-    margin-left: 5px;
+    margin-left: 10px;
     line-height: 30px;
 }
 
 .actual-massage {
     border: 1px solid black;
-    width: 615px;
-    margin-left: 5px;
+    width: 600px;
+    margin-left: 10px;
     overflow-wrap: break-word;
 }
